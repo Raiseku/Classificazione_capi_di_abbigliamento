@@ -1,9 +1,9 @@
-# Classificazione_capi_di_abbigliamento
+# Clothing Classification
 
-Classificazione di capi di abbigliamento tramite Convolutional Neural Network.  
+Clothing classification using Convolutional Neural Network.  
 
-Dataset utilizzato: Fashion-MNIST  
-Modello: Rete Neurale Convoluzionale  
+Dataset used: Fashion-MNIST  
+Model: Convolutional Neural Network  
 Backend: Tensorflow  
-Libreria: Keras  
+Library: Keras  
 
